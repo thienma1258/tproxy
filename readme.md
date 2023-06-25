@@ -19,7 +19,7 @@ When I develop backend services and write [go-zero](https://github.com/zeromicro
 ## Installation
 
 ```shell
-$ go install github.com/kevwan/tproxy@latest
+$ go install github.com/kevwan/tproxy
 ```
 
 Or use docker images:
